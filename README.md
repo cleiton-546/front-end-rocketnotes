@@ -13,3 +13,5 @@ Funcionalidades Principais
 Crie e edite suas notas pessoais.
 Organize suas notas usando tags.
 Realize buscas rápidas através da barra de pesquisa.
+
+
