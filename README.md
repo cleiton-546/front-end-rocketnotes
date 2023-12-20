@@ -1,8 +1,14 @@
-# React + Vite
+RocketNotes Frontend
+Bem-vindo ao repositório do frontend da aplicação RocketNotes! Aqui é onde desenvolvemos e mantemos a interface de usuário dinâmica e interativa do RocketNotes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sobre o Projeto
+O RocketNotes é um projeto pessoal desenvolvido para estudos próprios, em colaboração com a Rocketseat. Essa aplicação permite que os usuários centralizem suas notas pessoais em um único local, facilitando a organização e busca por informações importantes.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologias Utilizadas
+React: Biblioteca JavaScript para construir interfaces de usuário.
+Vite: Build tool e bundler para projetos front-end modernos.
+Outras dependências: Axios, React Router, etc.
+Funcionalidades Principais
+Crie e edite suas notas pessoais.
+Organize suas notas usando tags.
+Realize buscas rápidas através da barra de pesquisa.
