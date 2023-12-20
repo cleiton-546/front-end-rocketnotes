@@ -1,4 +1,5 @@
 RocketNotes Frontend
+
 Bem-vindo ao repositório do frontend da aplicação RocketNotes! Aqui é onde desenvolvemos e mantemos a interface de usuário dinâmica e interativa do RocketNotes.
 
 Sobre o Projeto
